@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore .env
+.env
