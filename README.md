@@ -4,7 +4,6 @@ To facilitate accurate Q&A with financial documents (OCBC credit reports), a Ret
 Different retrieval methods were compared and the Maximum Marginal Relevance method was found to work best in retrieving diverse and unique results from vectorstore.  
 Running a few questions to test showed encouraging answers - the LLM was pulling correct answers from relevant documents and summarizing them in a succinct manner.
 
-Inspired by: https://learn.deeplearning.ai/langchain-chat-with-your-data/
 It's split into the following parts:
 * Loading libraries and initializing LLM (OpenAI's GPT-4)
 * Selecting an appropriate text splitter
